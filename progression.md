@@ -1,3 +1,4 @@
+"Je veux comprendre Git vraiment, pas juste exécuter les commandes"
 # Suivi de progression — Remise à niveau technique
 
 ## Profil
